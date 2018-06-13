@@ -1,5 +1,5 @@
 {
-  "name": "nomi_router",
+  "name": "nomi-router",
   "version": "1.0.1",
   "description": "This is the router moudle of nomi node framework",
   "main": "./lib/Router.js",
